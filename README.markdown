@@ -1,3 +1,4 @@
+### [stamen](https://stamen.com)   Dec 1th, 2017
 This is the code behind the Stamen maps site, which shows off our custom tiles
 and explains how to get them into other sites.
 
